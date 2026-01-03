@@ -2,7 +2,7 @@
 
 A premium Web3-themed dashboard to track cryptocurrency investments, built with React (Vite) and Node.js/Express.
 
-![Portfolio Tracker Logo](frontend/public/logo.png)
+<img src="frontend/public/logo.png" alt="Portfolio Tracker Logo" width="150"/>
 
 ## Features
 - **Secure Authentication**: JWT-based Signup/Login with bcrypt password hashing.
